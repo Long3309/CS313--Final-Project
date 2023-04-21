@@ -1,0 +1,904 @@
+,0,correct
+0, Thành ph H Chí Minh,Thành phố Hồ Chí Minh
+1, Huyn Hóc Môn,Huyện Hóc Môn
+2, Tnh Hà Nam,Tỉnh Hà Nam
+3, Tnh Hà T?nh,Tỉnh Hà Tĩnh
+4, Tnh Thanh Hóa,Tỉnh Thanh Hóa
+5, Tình Qu?ng Ngãi,Tỉnh Quảng Ngãi
+6, Qu?n 12,Quận 12
+7, Tnh Khánh Hoà,Tỉnh Khánh Hòa
+8, Thành ph C?n Th?,Thành phố Cần Thơ
+9, Th xã An Khê,Thị xã An Khê
+10, Tnh Ti?n Giang,Tỉnh Tiền Giang
+11, Huyn Bình Tân,Huyện Bình Tân
+12, Qu?n Th? ??c,Quận Thủ Đức
+13, Ph??ng Phú C??ng,Huyện Phú Lương
+14, Tnh Lâm ?ng,Tỉnh Lâm Đồng
+15, Huyn Di Linh,Huyện Di Linh
+16, Tnh Kiên Giang,Tỉnh Kiên Giang
+17, Tnh Trà Vinh,Tỉnh Trà Vinh
+18, Huyn ??c Hoà,Huyện Bắc Hà
+19, Thành ph H?i Phòng,Thành phố Hải Phòng
+20, Tnh Qu?ng Nam,Tỉnh Quảng Nam
+21, Huyn Kinh Môn,Huyện Ninh Sơn
+22, Tnh Bình Thu?n,Tỉnh Bình Thuận
+23, Tnh Qu?ng Bình,Tỉnh Quảng Bình
+24, Tnh Qu?ng Ngãi,Tỉnh Quảng Ngãi
+25, Thành ph Tây Ninh,Thành phố Tây Ninh
+26, Thành ph Sa ?éc,Thành phố Sa Đéc
+27, Tnh Ninh Thu?n,Tỉnh Ninh Thuận
+28, Tnh Gia Lai,Tỉnh Gia Lai
+29, Tnh V?nh Phúc,Tỉnh Vĩnh Phúc
+30, Tnh An Giang,Tỉnh An Giang
+31, Thành ph Bà Ra,Thành phố Bà Rịa
+32, Tnh Th?a Thiên Hu?,Tỉnh Thừa Thiên Huế
+33, Huyn Kiên L??ng,Huyện Kiên Lương
+34, Tnh Kon Tum,Tỉnh Kon Tum
+35, Tnh V?nh Long,Tỉnh Vĩnh Long
+36, Tnh Tây Ninh,Tỉnh Tây Ninh
+37, Thành ph Biên Hoà,Thành phố Biên Hòa
+38, Huyn Bình Chánh,Huyện Bình Chánh
+39, Tình ?ng Nai,Tỉnh Đồng Nai
+40, Huyn An Biên,Huyện An Biên
+41, Huyn ??c Tr?ng,Huyện Đức Trọng
+42, Tnh Bình D??ng,Tỉnh Bình Dương
+43, Tnh Ngh An,Tỉnh Nghệ An
+44, Tnh Bình ?nh,Tỉnh Bình Định
+45, NULL,Quận 1
+46, Thành ph Quy Nh?n,Thành phố Quy Nhơn
+47, ,Quận 1
+48, Huyn Châu ??c,Huyện Châu Đức
+49, Tnh ?ng Nai,Tỉnh Đồng Nai
+50, Huyn B?o Lâm,Huyện Bảo Lâm
+51, Huyn ??c Linh,Huyện Đức Linh
+52, Huyn Tháp M??i,Huyện Tháp Mười
+53, Tnh Phú Yên,Tỉnh Phú Yên
+54, Tnh ??k L?k,Tỉnh Đắk Lắk
+55, Huyn Tân Thành,Huyện Tân Thạnh
+56, Tnh Bình Ph?c,Tỉnh Bình Phước
+57, Tnh Nam ?nh,Tỉnh Nam Định
+58, Huyn Tánh Linh,Huyện Tánh Linh
+59, Tnh ??k Nông,Tỉnh Đắk Nông
+60, Huyn Th?nh Phú,Huyện Thạnh Phú
+61, Xã M? Tân,TP. Mỹ Tho
+62, Huyn Xuyên Mc,Huyện Xuyên Mộc
+63, Tnh B?n Tre,Tỉnh Bến Tre
+64, Huyn Châu Phú,Huyện Châu Phú
+65, Huyn Diên Khánh,Huyện Diên Khánh
+66, Huyn B?n L?c,Huyện Bến Lức
+67, Ph??ng Long Bình,Tỉnh Hoà Bình
+68, Th xã Gò Công,Thị xã Gò Công
+69, Thành ph Biên Hòa,Thành phố Biên Hòa
+70, Tnh ?ng Tháp,Tỉnh Đồng Tháp
+71, Tnh Bà Ra - V?ng Tàu,Tỉnh Bà Rịa - Vũng Tàu
+72, Tnh Long An,Tỉnh Long An
+73, Tnh Khánh Hòa,Tỉnh Khánh Hòa
+74, Huyn Ch? Lách,Huyện Chợ Lách
+75, Th xã D? An,Thị xã Kỳ Anh
+76, Huyn Ch? G?o,Huyện Chợ Gạo
+77, Tân ?nh,TP. Vinh
+78, Huyn Hàm Thu?n B?c,Huyện Hàm Thuận Bắc
+79, Huyn Tân Hip,Huyện Tân Hiệp
+80, Huyn Ch? Mi,Huyện Chợ Mới
+81, Ph??ng Ph?c Long B,Thị xã Phước Long
+82, Huyn Tr?ng Bom,Huyện Trảng Bom
+83, Huyn ??k Hà,Huyện Đắk Hà
+84, Huyn D??ng Minh Châu,Huyện Dương Minh Châu
+85, Thành ph ?à N?ng,Thành phố Đà Nẵng
+86, Huyn Xuân Lc,Huyện Xuân Lộc
+87, Huyn ??c Ph,Huyện Đức Thọ
+88, Huyn Nh?n Tr?ch,Huyện Nhơn Trạch
+89, Huyn Qu?ng Ninh,Huyện Quảng Ninh
+90, Huyn L?p Vò,Huyện Lấp Vò
+91, Huyn D?u Ti?ng,Huyện Dầu Tiếng
+92, Thành ph Trà Vinh,Thành phố Trà Vinh
+93, Tnh Cà Mau,Tỉnh Cà Mau
+94, Xã Minh Th?nh,Quận Bình Thạnh
+95, xã H?u Thành,Thị xã Hòa Thành
+96, Tnh Qu?ng Tr,Tỉnh Quảng Trị
+97, Huyn Phú Giáo,Huyện Phú Giáo
+98, Huyn Krông Nng,Huyện Krông Năng
+99, Huyn Long ?i?n,Huyện Long Điền
+100, Xã Tân An Hi,TP. Tân An
+101, Huyn Ging Trôm,Huyện Giồng Trôm
+102, Huyn Hoài Nh?n,Huyện Hoài Ân
+103, Th xã Thu?n An,Thị xã Thuận Thành
+104, Huyn Mc Hóa,Huyện Mộc Hóa
+105, Huyn S?n Tnh,Huyện Sơn Tịnh
+106, Huyn Lc Ninh,Huyện Lộc Ninh
+107, ?p 4,Quận 4
+108, Huyn C? Kuin,Huyện Cư Kuin
+109, Xã L?c An,TP. Hội An
+110, Huyn Ngh?a Hành,Huyện Nghĩa Hành
+111, Xã H Nai 3,TP. Hà Nội
+112, Xã King Ph?c,Tỉnh Vĩnh Phúc
+113, Thành ph Th? D?u Mt,Thành phố Thủ Dầu Một
+114, Th xã Long Khánh,TP. Long Khánh
+115, Huyn Kbang,Huyện KBang
+116, Thành ph B?o Lc,Thành phố Bảo Lộc
+117, Ph??ng Hip Ninh,Tỉnh Bắc Ninh
+118, Huyn Bình S?n,Huyện Bình Sơn
+119, Thành ph V?nh Long,Thành phố Vĩnh Long
+120, Qu?n 2,Quận 1
+121, Xã Phú M?,Thị xã Phú Mỹ
+122, Huyn Tây S?n,Huyện Tây Sơn
+123, Huyn Bù Gia M?p,Huyện Bù Gia Mập
+124, Ph??ng ??i Nài,TP. Hà Nội
+125, Thành ph Phan Thi?t,Thành phố Phan Thiết
+126, Tnh B?c Liêu,Tỉnh Bạc Liêu
+127, Tnh B?c Giang,Tỉnh Bắc Giang
+128, Xã Long An,Tỉnh Long An
+129, Xã Bàu ?n,TP. Bắc Kạn
+130, Th xã An Nh?n,Thị xã An Nhơn
+131, Huyn Châu Thành,Huyện Châu Thành
+132, Huyn Hn Qu?n,Huyện Hớn Quản
+133, Huyn Hòa Thành,Huyện Kim Thành
+134, Huyn V?nh C?u,Huyện Vĩnh Cửu
+135, Xã Ka ?ô,Thị xã Sa Pa
+136, Th xã ?ng Xoài,Thị xã Thái Hoà
+137, Thành ph Hi An,Thành phố Hội An
+138, Huyn Cao Lãnh,Huyện Cao Lãnh
+139, Huyn ?ng Phú,Huyện Đồng Phú
+140, Thành ph Kon Tum,Thành phố Kon Tum
+141, Tnh Sóc Trng,Tỉnh Sóc Trăng
+142, Ph??ng Long Tr??ng,Huyện Long Thành
+143, Tnh Thái Bình,Tỉnh Thái Bình
+144, Huyn Cái N?c,Huyện Cái Nước
+145, Qu?n Tân Phú,Quận Tân Phú
+146, Huyn Phú Hoà,Huyện Phú Hoà
+147, Huyn Ch?n Thành,Huyện Châu Thành
+148, Huyn ?nh Quán,Huyện Định Quán
+149, Huyn ?k Mil,Huyện Đắk Mil
+150, Huyn T? Ngh?a,Huyện Tư Nghĩa
+151, Xã Long Khánh A,TP. Long Khánh
+152, Ph??ng An Bình,Huyện Yên Bình
+153, Tnh H?u Giang,Tỉnh Hậu Giang
+154, Tnh Thanh Hoá,Tỉnh Thanh Hóa
+155, Huyn Cai l?y,Huyện Cai Lậy
+156, Huyn H?i Lng,Huyện Hải Lăng
+157, 'Tnh Qu?ng Nam',Tỉnh Quảng Nam
+158, 'Tnh Tây Ninh',Tỉnh Tây Ninh
+159, 'Huyn Cai l?y',Huyện Cai Lậy
+160, 'Huyn C?m M?',Huyện Cẩm Mỹ
+161, 'Tnh Ti?n Giang',Tỉnh Tiền Giang
+162, 'Tnh Bình ?nh',Tỉnh Bình Định
+163, 'Thành ph Cao Lãnh',Thành phố Cao Lãnh
+164, 'Huyn Cai L?y',Huyện Cai Lậy
+165, 'Tnh Phú Yên',Tỉnh Phú Yên
+166, 'Huyn Thng Nh?t',Huyện Thống Nhất
+167, 'Ph??ng Ph?c Bình',Huyện Phú Bình
+168, 'Tình Qu?ng Ngãi',Tỉnh Quảng Ngãi
+169, 'Huyn B?c Tân Uyên',Huyện Bắc Tân Uyên
+170, 'Th xã B?n Cát',Thị xã Bến Cát
+171, 'Tnh ??k L?k',Tỉnh Đắk Lắk
+172, 'Tnh Gia Lai',Tỉnh Gia Lai
+173, 'Qu?n 2',Quận 1
+174, 'Tnh B?n Tre',Tỉnh Bến Tre
+175, 'Thành ph H Chí Minh',Thành phố Hồ Chí Minh
+176, 'Tnh Ngh An',Tỉnh Nghệ An
+177, 'Tnh Bà Ra - V?ng Tàu',Tỉnh Bà Rịa - Vũng Tàu
+178, 'Qu?n 12',Quận 12
+179, 'Tnh An Giang',Tỉnh An Giang
+180, 'Tnh Bình D??ng',Tỉnh Bình Dương
+181, 'Tnh Lâm ?ng',Tỉnh Lâm Đồng
+182, 'Tnh Khánh Hoà',Tỉnh Khánh Hòa
+183, 'Ph??ng Hip Phú',Tỉnh Vĩnh Phúc
+184, 'Thành ph ?à N?ng',Thành phố Đà Nẵng
+185, 'Huyn Hóc Môn',Huyện Hóc Môn
+186, 'Thành ph M? Tho',Thành phố Mỹ Tho
+187, 'Huyn Nh?n Tr?ch',Huyện Nhơn Trạch
+188, 'Tnh Th?a Thiên Hu?',Tỉnh Thừa Thiên Huế
+189, 'Tnh Bình Thu?n',Tỉnh Bình Thuận
+190, 'Tnh Long An',Tỉnh Long An
+191, 'Tnh ??k Nông',Tỉnh Đắk Nông
+192, 'Thành ph Phan Rang -Tháp Chàm',Thành phố Phan Rang-Tháp Chàm
+193, 'Tnh Bình Ph?c',Tỉnh Bình Phước
+194, 'Tình ?ng Nai',Tỉnh Đồng Nai
+195, 'Huyn V?n Ninh',Huyện Vạn Ninh
+196, 'Huyn Tân Th?nh',Huyện Tân Thạnh
+197, 'Huyn Ng?c Hi',Huyện Ngọc Hồi
+198, 'Tnh Khánh Hòa',Tỉnh Khánh Hòa
+199, 'Huyn Ch? G?o',Huyện Chợ Gạo
+200, 'Huyn Thanh Bình',Huyện Thanh Bình
+201, 'Huyn ?? T?h',Huyện Ân Thi
+202, 'Ph??ng Bình H?ng Hoà A',Thành phố Đông Hà
+203, 'Huyn Hàm Thu?n B?c',Huyện Hàm Thuận Bắc
+204, 'Th xã Hng Ng?',Thị xã Hồng Lĩnh
+205, 'Tnh Qu?ng Ngãi',Tỉnh Quảng Ngãi
+206, 'Tnh Thanh Hóa',Tỉnh Thanh Hóa
+207, 'Huyn C?n Giuc',Huyện Cần Giuộc
+208, 'Tnh Hà T?nh',Tỉnh Hà Tĩnh
+209, 'Tnh Sóc Trng',Tỉnh Sóc Trăng
+210, 'Tnh ?ng Nai',Tỉnh Đồng Nai
+211, 'Thành ph C?n Th?',Thành phố Cần Thơ
+212, 'Huyn Tr?ng Bom',Huyện Trảng Bom
+213, 'Huyn Ch? Mi',Huyện Chợ Mới
+214, 'Tnh Qu?ng Tr',Tỉnh Quảng Trị
+215, 'Huyn Bù Gia M?p',Huyện Bù Gia Mập
+216, 'Huyn Hàm Tân',Huyện Hàm Tân
+217, 'Huyn Tây S?n',Huyện Tây Sơn
+218, 'Huyn Hoài Nh?n',Huyện Hoài Ân
+219, 'Huyn M? Cày Nam',Huyện Mỏ Cày Nam
+220, 'Huyn Kiên L??ng',Huyện Kiên Lương
+221, 'Huyn S?n Tnh',Huyện Sơn Tịnh
+222, 'Huyn Nhà Bè',Huyện Nhà Bè
+223, 'Xã Ngh ??c',Tỉnh Nghệ An
+224, 'Huyn Lâm Hà',Huyện Lâm Hà
+225, 'Tnh Nam ?nh',Tỉnh Nam Định
+226, 'Tnh Ninh Thu?n',Tỉnh Ninh Thuận
+227, 'Tnh Kon Tum',Tỉnh Kon Tum
+228, 'Xã Hòa Thu?n',Thị xã Hòa Thành
+229, 'Thành ph Tây Ninh',Thành phố Tây Ninh
+230, 'Qu?n Th? ??c',Quận Thủ Đức
+231, 'Huyn ??c Ph',Huyện Mộc Châu
+232, 'Huyn M ??c',Huyện Mỹ Đức
+233, 'Huyn ??m D?i',Huyện Đầm Dơi
+234, 'Qu?n Tân Bình',Quận Tân Bình
+235, 'Huyn Thanh Hà',Huyện Thanh Hà
+236, '',Quận 1
+237, 'Huyn Phù Cát',Huyện Phù Cát
+238, 'Tnh V?nh Long',Tỉnh Vĩnh Long
+239, 'Huyn C? M\'gar',Huyện Cư M'gar
+240, 'Xã An Ph?c',Huyện An Phú
+241, 'Huyn Châu ??c',Huyện Châu Đức
+242, 'Tnh Qu?ng Bình',Tỉnh Quảng Bình
+243,khu ph 1',Quận 1
+244, 'Tnh Ninh Bình',Tỉnh Ninh Bình
+245, 'Qu?n 9',Quận 1
+246, 'Huyn ??c Linh',Huyện Đức Linh
+247, 'Thành ph Cam Ranh',Thành phố Cam Ranh
+248, 'Huyn M? ??c',Huyện Mỹ Đức
+249, 'Huyn Ging Trôm',Huyện Giồng Trôm
+250, 'Thành ph Pleiku',Thành phố Pleiku
+251, 'Huyn ??i Lc',Huyện Đại Lộc
+252, 'Huyn B?n L?c',Huyện Bến Lức
+253, 'Tnh B?c Liêu',Tỉnh Bạc Liêu
+254, 'Th xã Bình Minh',Thị xã Bình Minh
+255, 'Thành ph Quy Nh?n',Thành phố Quy Nhơn
+256, 'Huyn Tân Hip',Huyện Tân Hiệp
+257, 'Th xã Bình Long',Thị xã Bình Long
+258, 'Xã An H?o',Huyện An Lão
+259, 'Huyn C? Chi',Huyện Củ Chi
+260, 'Tnh Kiên Giang',Tỉnh Kiên Giang
+261, 'Huyn S?n Hoà',Huyện Sơn Hà
+262, 'Ph??ng H?ng Bình',Tỉnh Hoà Bình
+263, 'Tnh Cà Mau',Tỉnh Cà Mau
+264, 'Thành ph Vinh',Thành phố Vinh
+265, 'Th xã Gia Ngh?a',Thị xã Giá Rai
+266, 'Xã Tân Thông Hi',Huyện Đông Hải
+267, 'Huyn Châu Thành',Huyện Châu Thành
+268, 'Huyn Hòa Thành',Huyện Kim Thành
+269, 'xã An Hip',Tỉnh An Giang
+270, 'Huyn Krông Ana',Huyện Krông Pa
+271, 'Huyn Long Thành',Huyện Long Thành
+272, 'Huyn Ea Kar',Huyện Ea Kar
+273, 'Huyn ??k R\'L?p',Huyện Đắk R'Lấp
+274, 'Xã V?nh Hòa Hip',Tỉnh Hà Giang
+275, 'Thành ph Biên Hoà',Thành phố Biên Hòa
+276, 'Th xã Ki?n T??ng',Thị xã Kiến Tường
+277, KV8',Quận 1
+278, 'Huyn ??t ??',Huyện Bát Xát
+279, 'Huyn Tân Thành',Huyện Tân Thạnh
+280, 'Tnh ?ng Tháp',Tỉnh Đồng Tháp
+281, 'Xã Thành Thi A',Huyện Thanh Thuỷ
+282, 'Xã B?ng Ri?ng',Tỉnh Bắc Giang
+283, 'Huyn ??n D??ng',Huyện Sơn Dương
+284, 'Tnh Thanh Hoá',Tỉnh Thanh Hóa
+285, 'Tnh Thái Bình',Tỉnh Thái Bình
+286, 'Th xã Ba ?n',Thị xã Ba Đồn
+287, 'Thành ph H?i Phòng',Thành phố Hải Phòng
+288, 'Huyn Krông P?c',Huyện Krông Pắc
+289, 'Qu?n Bình Tân',Quận Bình Tân
+290, 'Thành ph R?ch Giá',Thành phố Rạch Giá
+291, 'Th xã Hà Tiên',Thị xã Duy Tiên
+292, 'Qu?n 6',Quận 6
+293, 'Th tr?n Núi Thành',Huyện Núi Thành
+294, 'Tnh H?i D??ng',Tỉnh Hải Dương
+295, 'Thành ph Th? D?u Mt',Thành phố Thủ Dầu Một
+296, 'Huyn Núi Thành',Huyện Núi Thành
+297, 'Huyn L?p Vò',Huyện Lấp Vò
+298, 'Xã Hòa ?nh',TP. Hòa Bình
+299, 'Ph??ng Tân Hip',Huyện Tân Hiệp
+300, 'Huyn Hn Qu?n',Huyện Hớn Quản
+301, 'Qu?n Liên Chiu',Quận Liên Chiểu
+302, 'Thành ph B?n Tre',Thành phố Bến Tre
+303, 'Th xã ?ng Xoài',Thị xã Đông Triều
+304, 'Qu?n 7',Quận 7
+305, 'Huyn ?? Huoai',Huyện Đạ Huoai
+306, 'Xã Long Giang',Huyện Lạng Giang
+307, 'Qu?n Bình Th?nh',Quận Bình Thạnh
+308, 'Thành ph Biên Hòa',Thành phố Biên Hòa
+309, 'Huyn Tr?ng Bàng',Huyện Krông Bông
+310, 'Huyn ?ông Hoà',Huyện Hưng Hà
+311, 'Xã Ea Kung',Huyện Đa Krông
+312, 'Th Tr?n V?nh Thu?n',Huyện Vĩnh Thuận
+313, 'Xã Tân n',TP. Tân An
+314, 'Huyn Di Linh',Huyện Di Linh
+315, 'Tnh Trà Vinh',Tỉnh Trà Vinh
+316, 'Thành ph Hà Ni',Thành phố Hà Nội
+317, 'Xã Long M?',Tỉnh Long An
+318, 'Huyn ?nh Quán',Huyện Định Quán
+319, 'Huyn ??c Tr?ng',Huyện Đức Trọng
+320, 'Ph??ng Linh Trung',Tỉnh Ninh Thuận
+321, 'Xã Chi Lng',Huyện Chi Lăng
+322, 'Huyn Long ?i?n',Huyện Long Điền
+323, 'Huyn Tuy Ph?c',Huyện Tuy Phước
+324, 'Huyn Phong ?i?n',Huyện Phong Điền
+325, 'Huyn Tho?i S?n',Huyện Thoại Sơn
+326, 'Xã L?c An',Tỉnh Long An
+327, 'Thành ph Trà Vinh',Thành phố Trà Vinh
+328, 'Huyn Bình S?n',Huyện Bình Sơn
+329, 'Huyn H?i Lng',Huyện Hải Lăng
+330, 'Huyn Tánh Linh',Huyện Tánh Linh
+331, 'Ph??ng Tân Thanh',Huyện Tân Thạnh
+332, 'Huyn V?nh H?ng',Huyện Vĩnh Hưng
+333, 'Xã Tân M? Chánh',Huyện Lang Chánh
+334, 'Huyn Tân Châu',Huyện Tân Châu
+335, 'Huyn Tuy Phong',Huyện Tuy Phong
+336, 'Xã Hi Ngh?a',TP. Gia Nghĩa
+337, 'Huyn B?c Bình',Huyện Bắc Bình
+338, 'Th tr?n Ngô Mây',Thị xã Sơn Tây
+339, 'Huyn Diên Khánh',Huyện Diên Khánh
+340, 'Xa Qu??i An',Quận Hải An
+341, 'Huyn Tam Bình',Huyện Tam Bình
+342, 'Tnh B?n Trê',Tỉnh Bến Tre
+343, 'Xã Sui Dây',Thị xã Sơn Tây
+344, 'Xã Sông Ray',TP. Sông Công
+345, 'Huyn Xuyên Mc',Huyện Xuyên Mộc
+346, 'Xã B?o Bình',Tỉnh Hoà Bình
+347, 'Huyn ??c Hoà',Huyện Bắc Hà
+348, 'Huyn Vân Canh',Huyện Vân Canh
+349, 'Thành ph Tuy Hoà',Thành phố Tuy Hoà
+350, 'Thành ph Cà Mau',Thành phố Cà Mau
+351, 'Tnh H?u Giang',Tỉnh Hậu Giang
+352, 'Huyn Krông Búk',Huyện Krông Búk
+353, 'Huyn Bù ?p',Huyện Bù Đốp
+354, 'Huyn D?u Ti?ng',Huyện Dầu Tiếng
+355, 'Huyn Phú Quc',Huyện Phú Quí
+356, 'xã Trà Vong',Tỉnh Trà Vinh
+357, 'Thành ph Châu ?c',Thành phố Châu Đốc
+358, 'Huyn Long Phú',Huyện Long Phú
+359, 'Huyn T? Ngh?a',Huyện Tư Nghĩa
+360, 'Xã ?a Ph?c Hi',Thị xã Phước Long
+361, 'Xã L??ng Phú',Huyện Long Phú
+362, 'Huyn ??k Mil',Huyện Đắk Mil
+363, 'Huyn Qu?ng ?i?n',Huyện Quảng Ninh
+364, 'Thành ph V?nh Long',Thành phố Vĩnh Long
+365, 'Huyn Tháp M??i',Huyện Tháp Mười
+366, 'Thành ph Long Xuyên',Thành phố Long Xuyên
+367, 'Xã An Thái ?ông',Tỉnh Thái Bình
+368, 'Xã Nam Chính',Tỉnh Nam Định
+369, 'Huyn Phú Ninh',Huyện Phú Ninh
+370, 'Ph??ng An Khánh',Huyện Yên Khánh
+371, 'Qu?n 5',Quận 5
+372, 'Thành ph Buôn Ma Thut',Thành phố Buôn Ma Thuột
+373, 'Thành ph Tân An',Thành phố Tân An
+374, 'Huyn Krông Nng',Huyện Krông Năng
+375, 'Huyn Ch? Lách',Huyện Chợ Lách
+376, 'Huyn Hng Ng?',Huyện Hồng Ngự
+377, 'Th tr?n Tân Bình',Quận Tân Bình
+378, 'Thành ph Hà T?nh',Thành phố Hà Tĩnh
+379, 'Xã Bình M?',Quận Bình Tân
+380, 'Huyn Hoài n',Huyện Hoài Ân
+381, 'Huyn B?o Lâm',Huyện Bảo Lâm
+382, 'Huyn V?nh C?u',Huyện Vĩnh Cửu
+383, 'Xã Thu?n Phú',Quận Tân Phú
+384, 'Huyn Tân Uyên',Huyện Tân Uyên
+385, 'Thành ph Sa ?éc',Thành phố Sa Đéc
+386, 'Ph??ng M? Ph?c',Tỉnh Vĩnh Phúc
+387, 'Ph??ng Tr?ng Dài',Thị xã Trảng Bàng
+388, 'Th xã Thu?n An',Thị xã Thuận Thành
+389, 'Huyn Bình ??i',Huyện Bình Gia
+390, 'Xã Ph?c Tr?ch',Tỉnh Phú Thọ
+391, 'Thành ph B?o Lc',Thành phố Bảo Lộc
+392, 'Xã Bình Ph?c Xuân',Tỉnh Bình Thuận
+393, 'Th xã Ngã Nm',Thị xã Ngã Năm
+394, 'Xã Bù Nho',TP. Mỹ Tho
+395, 'Xã Tân ?ông',Quận Tân Bình
+396, ?p Ba Sa',TP. Từ Sơn
+397, 'Huyn Thng Bình',Huyện Thăng Bình
+398, KP 5',Quận 5
+399, 'Th tr?n V?ng Liêm',Huyện  Vũng Liêm
+400, 'Thành ph Qu?ng Ngãi',Thành phố Quảng Ngãi
+401, 'Thành ph Bà Ra',Thành phố Bà Rịa
+402, 'Xã Ph?c Thi?n',Huyện Phú Thiện
+403, 'Huyn Bù ?ng',Huyện Bù Đăng
+404, 'Thành ph Tam K?',Thành phố Tam Kỳ
+405, 'Ph??ng Long Bình',Tỉnh Hoà Bình
+406, 'Xã M? Hi ?ông',Quận Hà Đông
+407, 'Th tr?n Ging Trôm',Huyện Giồng Trôm
+408, 'Huyn Bình Chánh',Huyện Bình Chánh
+409, 'Ph??ng 5',Tỉnh Long An
+410, 'Xã Bình Minh',Thị xã Bình Minh
+411, 'Thành ph Kon Tum',Thành phố Kon Tum
+412, 'Xã Qu?ng Ti?n',Tỉnh Quảng Ninh
+413, 'Trung Thành',Huyện Long Thành
+414, 'Xã ?ông Hòa',Thị xã Đông Hòa
+415, 'Huyn Phú Tân',Huyện Phú Tân
+416, 'Huyn Th?nh Phú',Huyện Thạnh Phú
+417, 'Th xã An Nh?n',Thị xã An Nhơn
+418, 'Huyn Ngh?a H?ng',Huyện Nghĩa Hưng
+419, 'Xã Thu?n H?ng',TP. Thuận An
+420, 'Huyn Ch?n Thành',Huyện Châu Thành
+421, 'Huyn Ngh?a Hành',Huyện Nghĩa Hành
+422, 'Qu?n Gò V?p',Quận Gò Vấp
+423, 'Thành Ph ?à L?t',Thành phố Đà Lạt
+424, 'Ph??ng Vn Mi?u',Huyện Yên Minh
+425, 'Xã Bình Lc',Huyện Bình Lục
+426, 'Huyn Th? Th?a',Huyện Thủ Thừa
+427, 'Xuân B?c',Quận 1
+428, ?p 3B',Quận 3
+429, 'Qu?n 10',Quận 10
+430, 'Th xã Long Khánh',TP. Long Khánh
+431, 'Ph??ng Phú Th?y',Tỉnh Phú Thọ
+432, 'Xã An Châu',Tỉnh Lai Châu
+433, 'Thành ph Sóc Trng',Thành phố Sóc Trăng
+434, 'Qu?n 11',Quận 11
+435, 'Ph??ng V?nh Ng??n',Tỉnh Vĩnh Long
+436, 'Huyn Mang Thít',Huyện Mang Thít
+437, 'Huyn ??c Hu',Huyện Đức Huệ
+438, 'Xã Phú Xuân',Tỉnh Phú Yên
+439, 'Huyn C?n ??c',Huyện Can Lộc
+440, 'Huyn Hoà Bình',Huyện Hoà Bình
+441, 'Huyn Tri Tôn',Huyện Tri Tôn
+442, 'Huyn Tiên Ph?c',Huyện Tiên Phước
+443, 'Thành ph V Thanh',Thành phố Vị Thanh
+444, 'Xã Tân Thành',Huyện Tân Thạnh
+445, 'Xã Long Thành Trung',Huyện Long Thành
+446, 'Hip Phú',Thị xã Phú Mỹ
+447, 'Xã Lâm San',Tỉnh Lâm Đồng
+448, 'Huyn Hòa Vang',Huyện Hòa Vang
+449, 'Huyn V?nh Th?nh',Huyện Vĩnh Thạnh
+450, 'Xã Hòa H?ng',Huyện Hòa Vang
+451, 'Thành Ph ?à N?ng',Thành phố Đà Nẵng
+452, 'Xã Hip Ph?c',Tỉnh Vĩnh Phúc
+453, 'Xã Thin Tân',TP. Thuận An
+454, 'Thành ph Hu?',Thành phố Huế
+455, 'Xã Long ?i?n B',Quận Long Biên
+456, 'Huyn C? Kuin',Huyện Cư Kuin
+457, 'Thành ph B?c Liêu',Thành phố Bạc Liêu
+458, 'Xã Sui Ngh',TP. Quy Nhơn
+459,',Quận 1
+460, 'Ph??ng V?nh H?i',Huyện Ninh Hải
+461, 'Th tr?n Tân Phú',Huyện Tân Phú
+462, 'Huyn Phú Hoà',Huyện Phú Hoà
+463, 'Xã An Thái Trung',Huyện Thái Thụy
+464, 'Xã Hòa Lc',TP. Hòa Bình
+465, 'Th xã D? An',Thị xã Kỳ Anh
+466, 'Huyn Krông Bông',Huyện Krông Bông
+467, '?k Lao',Huyện Lắk
+468, 'Xã V?nh Th?nh',Huyện Vĩnh Thạnh
+469, 'Huyn Càng Long',Huyện Càng Long
+470, 'Th xã Tân Châu',Thị xã Tân Châu
+471, 'Tân Hip',Huyện Hải Hà
+472, 'Xã Tân Khai',Quận Tân Phú
+473, 'Xã D??ng ?i?m',Quận Dương Kinh
+474, 'Lc Thái',Huyện Tứ Kỳ
+475, 'Huyn Cái Bè',Huyện Cái Bè
+476, 'Huyn ??c Hòa',Huyện Đức Hòa
+477, 'Xã Trúc S?n',Tỉnh Trà Vinh
+478, khu ph Tam ?a',Thành phố Tam Kỳ
+479, 'Xã Tân Ti?n',Tỉnh Tây Ninh
+480, 'Huyn Kông Chro',Huyện Kông Chro
+481, ?p Trung 1',TP. Uông Bí
+482, 'Huyn Ch? Sê',Huyện Chư Sê
+483, 'Xã Liên Hip',Tỉnh Kiên Giang
+484, 'Ph??ng Long Bình Tân',Quận Bình Tân
+485, 'ph??ng Châu Phú B',Huyện Châu Phú
+486, 'Huyn Ki?n X??ng',Huyện Kiến Xương
+487, 'Xã Th S?n',TP. Từ Sơn
+488, 'Huyn D??ng Minh Châu',Huyện Dương Minh Châu
+489, 'Tnh Hà Nam',Tỉnh Hà Nam
+490, 'Thành Ph M? Tho',Thành phố Mỹ Tho
+491, 'Ph??ng Tng Nh?n Phú A',Tỉnh Vĩnh Phúc
+492, ?p 3',Quận 3
+493, 'Xã Gia An',Tỉnh Gia Lai
+494, 'Xã ??c Phong',TP. Hải Phòng
+495, 'Xã Tân Phú',Quận Tân Phú
+496, 'Th Xã La Gi',Thị xã La Gi
+497, 'Qu?n Tht Nt',Quận Thốt Nốt
+498, 'Huyn Long H',Huyện Long Hồ
+499, 'Th tr?n Nam Ph?c',Tỉnh Vĩnh Phúc
+500, 'Huyn Cù Lao Dung',Huyện Cù Lao Dung
+501, 'Thành ph Thanh Hóa',Thành phố Thanh Hóa
+502, 'Huyn Xuân Lc',Huyện Xuân Lộc
+503, 'Xã An Khánh',Huyện Yên Khánh
+504, 'Th Xã ?ng Xoài',TP. Đồng Xoài
+505, 'Thành ph Nha Trang',Thành phố Nha Trang
+506, 'Xã Dray Sáp',Huyện Nam Sách
+507, 'Ph??ng Trung M? Tây',Thị xã Sơn Tây
+508, 'Ph??ng 1',Tỉnh Long An
+509, 'Ph??ng Linh Chiu',Quận Liên Chiểu
+510, 'Ph??ng An L?c',Huyện An Lão
+511, 'Huyn Phú Hòa',Huyện Phú Hoà
+512, 'Huyn Tr?n ??',Huyện Trấn Yên
+513, 'Xã M? Th?',TP. Mỹ Tho
+514, 'Thành ph Hà ni',Thành phố Hà Nội
+515, 'Xã Tân H?ng',Huyện Tân Hưng
+516, 'Ph??ng An Bình',Huyện Yên Bình
+517, 'Xã Xuân Th?nh',Huyện Tân Thạnh
+518, 'Xã Phú Bình',Huyện Phú Bình
+519, 'Huyn Lc Ninh',Huyện Lộc Ninh
+520, 'Xã Tân An',TP. Tân An
+521, 'Th xã Cai l?y',Thị xã Cai Lậy
+522, 'Huyn KBang',Huyện KBang
+523, 'Qu?n Tân Phú',Quận Tân Phú
+524, ???ng TMT 09',Quận Tây Hồ
+525, 'Huyn Ph?c S?n',Huyện Phước Sơn
+526, 'Xã Phú Thu?n A',Thành phố Thuận An
+527, 'xã ?ôn Thu?n',Tỉnh Ninh Thuận
+528, 'Th tr?n Liên Ngh?a',TP. Điện Biên Phủ
+529, 'Xã Long Hòa',Tỉnh Long An
+530, khu ph 5',Quận 5
+531, ?p 5',Quận 5
+532, 'Xã Phú Trung',TP. Nha Trang
+533, 'Huyn Châu Phú',Huyện Châu Phú
+534, 'Xã Bà ?im',Tỉnh Hà Giang
+535, 'Ph??ng V?nh Hòa',Thị xã Ninh Hòa
+536, 'Th xã Sông C?u',Thị xã Sông Cầu
+537, 'Tnh V?nh Phúc',Tỉnh Vĩnh Phúc
+538, 'Qu?n H?i Châu',Quận Hải Châu
+539, 'ph??ng An Bình',Huyện Yên Bình
+540, 'Huyn M? Xuyên',Huyện Mỹ Xuyên
+541, 'Huyn Hòn ??t',Huyện Hòn Đất
+542, 'Huyn Ba Tri',Huyện Ba Tri
+543, 'Th tr?n Chi Lng',Huyện Chi Lăng
+544, 'Huyn Gò Công Tây',Huyện Gò Công Tây
+545, 'Xã M? Trung',Huyện Hà Trung
+546, 'Huyn Gio Linh',Huyện Gio Linh
+547, 'Qu?n 4',Quận 4
+548, 'Huyn Phú Vang',Huyện Phú Vang
+549, 'Th xã V?nh Châu',Thị xã Vĩnh Châu
+550, 'Xã Thành Tâm',Tỉnh Thanh Hóa
+551, 'xã ?in Th?',TP. Cần Thơ
+552, 'Tnh B?c Ninh',Tỉnh Bắc Ninh
+553, 'Xã An Nh?n',Thị xã An Nhơn
+554, 'Xã Bình Trung',Tỉnh Bình Thuận
+555, 'xã An Hòa',Tỉnh An Giang
+556, 'Xã Tân An Hi',TP. Tân An
+557, 'Huyn Phú Ri?ng',Huyện Phú Riềng
+558, 'Th tr?n ??c Hoà',Thị xã Mỹ Hào
+559, 'Huyn An Phú',Huyện An Phú
+560, 'Xã Tam Quan Nam',Tỉnh Quảng Nam
+561, 'Thành ph Hi An',Thành phố Hội An
+562, 'Qu?n S?n Trà',Quận Sơn Trà
+563, 'xã Bình Hip',Thị xã Bình Minh
+564, 'Th xã H??ng Th?y',Thị xã Hương Thủy
+565, 'Huyn Phú Lc',Huyện Phú Lộc
+566, 'Xã An Hòa',Tỉnh An Giang
+567, 'Huyn Gò Công ?ông',Huyện Gò Công Đông
+568, 'Xã Chí Công',TP. Chí Linh
+569, 'Huyn Qu? S?n',Huyện Quế Sơn
+570, 'Huyn Ph?c Long',Huyện Phước Long
+571, 'Tnh B?c Giang',Tỉnh Bắc Giang
+572, 'Ph??ng Linh ?ông',Thị xã Kinh Môn
+573, ?p H?u Hoa',TP. Hạ Long
+574, 'Tnh H?ng Yên',Tỉnh Hưng Yên
+575, 'Xã Hóa An',Quận Hải An
+576, 'Ph??ng Bình An',Tỉnh Bình Định
+577, 'Huyn ?ng Phú',Huyện Đồng Phú
+578, 'Xã An Bình',Quận Tân Bình
+579, 'Ph??ng Phú Tân',Huyện Phú Tân
+580, 'Th xã Duyên H?i',Thị xã Duyên Hải
+581, 'Xã ?ôn Thu?n',Tỉnh Ninh Thuận
+582, 'Thành ph Ninh Bình',Thành phố Ninh Bình
+583, 'Qu?n Thanh Khê',Quận Thanh Khê
+584, 'Xã ??c Bình',Tỉnh Hoà Bình
+585, 'Huyn Hàm Thu?n Nam',Huyện Hàm Thuận Nam
+586, 'Xã Long Nguyên',TP. Long Xuyên
+587, 'Xã Tân Hip B',Huyện Tân Hiệp
+588, thôn III',Huyện Ia Pa
+589, 'Huyn B Tr?ch',Huyện Bố Trạch
+590, Ph??ng Ngh?a Trung',TP. Nha Trang
+591, 'Xã Ea Na',Tỉnh Hà Nam
+592, 'Huyn Cam L',Huyện Cam Lộ
+593, 'Xã Tân Hi',Quận Tây Hồ
+594, 'Ph??ng Quang Trung',Tỉnh Quảng Trị
+595, Tnh ??k L?k',Tỉnh Đắk Lắk
+596, 'Huyn H?ng Hóa',Huyện Hoằng Hóa
+597, 'Xã Xuân B?c',Huyện Xuân Lộc
+598, 'Ph??ng Tr??ng Th?',Tỉnh Đồng Tháp
+599, 'Xã H?c Dch',Tỉnh Hoà Bình
+600, 'Xã Bàu Hàm',Huyện Bàu Bàng
+601, 'Ph??ng Linh Xuân',Quận Thanh Xuân
+602, tnh ?ng Nai',Tỉnh Đồng Nai
+603, 'Huyn Duy Xuyên',Huyện Duy Xuyên
+604, 'Thành ph ?ng Hi',Thành phố Đồng Hới
+605, 'Ph??ng Châu Phú A',Huyện Châu Phú
+606, Bù Gia M?p,Huyện Bù Gia Mập
+607, 'Huyn Trà Cú',Huyện Trà Cú
+608, 'Ph??ng M? Hòa',Tỉnh Khánh Hòa
+609, 'Xã Ea Tar',Huyện Ea Kar
+610, 'Th xã Giá Rai',Thị xã Giá Rai
+611, 'Huyn ?k Song',Huyện Đắk Song
+612, 'Tnh Phú Th?',Tỉnh Phú Thọ
+613, 'Xã Long Tân',Tỉnh Long An
+614, 'Huyn Krông Nô',Huyện Krông Nô
+615, 'Ph??ng 4',Tỉnh Long An
+616, 'Huyn Tân Phú ?ông',Huyện Tân Phú Đông
+617, 'Huyn ??k Tô',Huyện Đắk Tô
+618, 'Ph??ng 3',Tỉnh Long An
+619, 'Thành ph ?ông Hà',Thành phố Đông Hà
+620, 'Huyn B?n C?u',Huyện Bến Cầu
+621, 'Xã Phú Tân',Huyện Phú Tân
+622, 'Xã Tân L?p',Huyện Tân Lạc
+623, 'Ph??ng Tru?ng Th?',Tỉnh Quảng Trị
+624, 'Xã Nam Thái S?n',Tỉnh Thái Bình
+625, 'Xã Liên Ngh?a',Quận Liên Chiểu
+626, 'Huyn C?u Ngang',Huyện Cầu Ngang
+627, 'Huyn Ch? Prông',Huyện Chư Prông
+628, 'Xã M? Hòa H?ng',Huyện Hòa Vang
+629, 'Ph??ng Ph?c Hòa',Tỉnh Khánh Hòa
+630, 'Xã Sông Tr?u',Thị xã Đông Triều
+631, 'Huyn U Minh',Huyện U Minh
+632, 'Huyn Qu?ng Tr?ch',Huyện Quảng Trạch
+633, 'Th tr?n Cái Bè',Huyện Cái Bè
+634, 'Huyn ?ông Hòa',Huyện Ứng Hòa
+635, 'Ph??ng Tam Bình',Huyện Tam Bình
+636, 'Huyn Lai Vung',Huyện Lai Vung
+637, 'Huyn Krông Pa',Huyện Krông Pa
+638, 'Xã Th?nh Phú',Huyện Thạnh Phú
+639, 'Ph??ng Th N?i',TP. Hà Nội
+640, 'Xã Th?nh Phú ?ông',Huyện Tân Phú Đông
+641, 'Ph??ng ?ông H?ng Thu?n',Thành phố Hưng Yên
+642, 'Huyn An Minh',Huyện An Minh
+643, 'Xã Tân Thu?n ?ông',Huyện Tân Phú Đông
+644, 'Xã Nghi Kim',Tỉnh Nghệ An
+645, 'Tnh Hà Giang',Tỉnh Hà Giang
+646, 'Thành ph V?ng Tàu',Thành phố Vũng Tàu
+647, 'Huyn Triu Phong',Huyện Triệu Phong
+648, 'Huyn V?ng Liêm',Huyện  Vũng Liêm
+649, 'Xã Hàm Minh',Tỉnh Hà Tĩnh
+650, 'Qu?n Ninh Ki?u',Quận Ninh Kiều
+651, 'Huyn C?n Gi?',Huyện Cần Giờ
+652, 'Ph??ng Ninh S?n',Huyện Ninh Sơn
+653, 'Xã Ng? Hip',Quận Ngô Quyền
+654, 'Huyn Tân Tr?',Huyện Tân Trụ
+655, 'Ph??ng Tam Phú',Huyện Tân Phú
+656, 'Xã Châu Phong',Huyện Cao Phong
+657, 'Ph??ng Linh Tây',Thị xã Sơn Tây
+658, 'Qu?n 3',Quận 3
+659, 'Ph??ng C?m Châu',Tỉnh Lai Châu
+660, 'Huyn M? Cày B?c',Huyện Mỏ Cày Bắc
+661, 'Huyn Buôn ?ôn',Huyện Buôn Đôn
+662, 'Ph??ng Tân Chánh Hip',Thành phố Thanh Hóa
+663, 'Ph??ng Bình ?a',Huyện Bình Gia
+664, 'Xã ?ng H?ng Ph?c',Tỉnh Vĩnh Phúc
+665, 'Huyn C? Jút',Huyện Cư Jút
+666, 'Xã Ch? Gu',Huyện Chợ Gạo
+667, 'Ph??ng Hoa L?',Huyện Hoa Lư
+668, 'Th tr?n Núi S?p',Thị xã Nghi Sơn
+669, khu ph 1',Quận 1
+670, 'Huyn Ea Súp',Huyện Ea Súp
+671,,Huyện Ea Súp
+672, 'Th xã An Khê',Thị xã An Khê
+673, Ti?n Giang.',Tỉnh Tiền Giang
+674, 'Qu?n  Môn',Quận Ô Môn
+675, 'Huyn M\'?r?k',Huyện M'Đrắk
+676, ??ng 184',Quận 1
+677, 'Th tr?n ?nh Quán',Huyện Định Quán
+678, 'Xã Ki?n An',Quận Kiến An
+679, 'Xã C?m ???ng',Tỉnh Cao Bằng
+680, 'Ph??ng Tân Phong',Huyện Yên Phong
+681, 'Th tr?n Long Thành',Huyện Long Thành
+682, 'Huyn M? Tú',Huyện Mỹ Tú
+683, 'Ph??ng Tam Hip',TP. Tam Điệp
+684, 'Xã Tà ??nh',Tỉnh Hà Tĩnh
+685,TP HCM',Thành phố Hồ Chí Minh
+686, 'Xã Tân Thanh Tây',Huyện Thanh Trì
+687, 'Ph??ng Thanh Hà',Huyện Thanh Hà
+688, 'Ph??ng Minh An',Huyện Minh Hóa
+689, 'Huyn ?am Rông',Huyện Đam Rông
+690, 'Ph??ng Lê Mao',Tỉnh Cà Mau
+691, Phú Yên.',Tỉnh Phú Yên
+692, 'Ph??ng 6',Tỉnh Long An
+693, 'Xã L??ng Hoà',TP. Đông Hà
+694, 'Xã An V?nh Ngãi',Tỉnh Quảng Ngãi
+695, 'Ph??ng Nam Lý',Huyện Nam Đàn
+696, khu ph 3',Quận 3
+697, 'Th tr?n Tràm Chim',Thị xã Tân Châu
+698, 'Xã Phú Thanh',Tỉnh Phú Thọ
+699, 'Th xã Ninh Hoà',Thị xã Ninh Hòa
+700, 'Huyn Trà n',Huyện Trà Ôn
+701, 'Ph??ng 7',Tỉnh Long An
+702, 'Ph??ng 17',Tỉnh Lạng Sơn
+703, 'Xã Tam Ph?c',Huyện Tuy Phước
+704, 'Xã Long An',Tỉnh Long An
+705, 'Th xã Hoàng Mai',Thị xã Hoàng Mai
+706, 'Huyn Gò D?u',Huyện Gò Dầu
+707, 'Ph??ng Xuân Hòa',Huyện Quảng Hòa
+708, 'Tnh Hòa Bình',Tỉnh Hoà Bình
+709, Khu ô th sinh thái',Thành phố Yên Bái
+710, 'Huyn Lý S?n',Huyện Lý Sơn
+711, Khu ph 6',Quận 6
+712, 'Th tr?n Krông Nng',Huyện Krông Năng
+713, 'ph??ng 4',Tỉnh Long An
+714, 'Xã Thin Trí',Tỉnh Bến Tre
+715, 'Ph??ng Phú Hòa',Huyện Phú Hoà
+716, 'Ph??ng Thu?n H?ng',Huyện Tân Hưng
+717, 'Ph??ng Hip Thành',Huyện Kim Thành
+718, 'Xã Trung Chánh',Huyện Trùng Khánh
+719, 'Huyn Tân Phú',Huyện Tân Phú
+720, 'Ph??ng M? Phú',Huyện An Phú
+721, 'Huyn Cái bè',Huyện Cái Bè
+722, 'Ph??ng Ph?c Long A',Thị xã Phước Long
+723, 'Xã Ph?c Tnh',Tỉnh Phú Thọ
+724, 'Huyn Ti?n H?i',Huyện Tiền Hải
+725, 'Xã C?m S?n',TP. Sầm Sơn
+726, 'Huyn Tân Biên',Huyện Tân Biên
+727, 'Huyn Th?ch Hà',Huyện Thạch Hà
+728, 'Xã Xuân Tâm',Tỉnh Kon Tum
+729, 'Ph??ng Ngô Quy?n',Quận Ngô Quyền
+730, 'Xã long th?',Tỉnh Long An
+731, 'ph??ng Xuân Trung',Huyện Xuân Trường
+732, 'Xã King Ph?c',Tỉnh Vĩnh Phúc
+733, 'Th xã Gò Công',Thị xã Gò Công
+734, 'Xã Bình H?i',Tỉnh Bình Định
+735, 'Xã Hip Th?nh',Tỉnh Hà Tĩnh
+736, 'Huyn Th?nh Hóa',Huyện Thạnh Hóa
+737, 'Xã V?nh Hòa',Tỉnh Khánh Hòa
+738, 'Xã Khánh Th?nh Tân',Tỉnh Thanh Hóa
+739, 'Xã H??ng M?',Quận Hoàng Mai
+740, 'Huyn ?ng Xuân',Huyện Đồng Xuân
+741, 'Tnh ?in Biên',Tỉnh Điện Biên
+742, 'Ph??ng Th?o ?i?n',Thành phố Vinh
+743, 'Ph??ng Tân ?ông Hip',Thành phố Đông Hà
+744, 'Xã Tam Bình',Huyện Tam Bình
+745, 'Xã An H?u',Tỉnh Kon Tum
+746, 'Th xã Tân Uyên',Thị xã Tân Châu
+747, 'Huyn K? Sách',Huyện Kế Sách
+748, 'Thành ph Tam ?ip',Thành phố Tam Điệp
+749, 'Ph??ng An Phú',Huyện An Phú
+750, 'Th tr?n Sa Th?y',Huyện Sa Thầy
+751, 'Xã Tr? Vn Th',Tỉnh Trà Vinh
+752, 'Thành ph Tuy Hòa',Thành phố Tuy Hoà
+753, 'Xã Bình Giã',Huyện Bình Gia
+754, 'Xã Xuân ?ông',Tỉnh Đắk Nông
+755, 'Xã ?ông Hà',TP. Đông Hà
+756, 'Huyn Tân Hng',Huyện Tân Hưng
+757, 'Xã Ki?n Thành',Huyện Kim Thành
+758, 'Xã Tân Hà',Quận Tây Hồ
+759, 'Xã V? Hòa',Tỉnh Hà Nam
+760, 'Ph??ng Phú L?i',Huyện Phú Lộc
+761, 'Th xã Ph?c Long',Thị xã Phước Long
+762, 'Xã Ka ?ô',Quận Ô Môn
+763, t 26',Quận 6
+764, 'Xã Tân Hip',Huyện Tân Hiệp
+765, tnh Bình ?nh',Tỉnh Bình Định
+766, 'Huyn Tu?n Giáo',Huyện Tuần Giáo
+767, 'Xã An Th?nh Th?y',Huyện Thanh Thuỷ
+768, thành ph H Chí Minh',Thành phố Hồ Chí Minh
+769, 'Th tr?n Th? Th?a',Thị xã Phú Thọ
+770, 'Xã Phú Lc',Huyện Phú Lộc
+771, 'Huyn Châu thành',Huyện Châu Thành
+772, 'Xã Th?nh Tân',Quận Thanh Xuân
+773, 'Ph??ng Châu Phú B',Huyện Châu Phú
+774, 'Qu?n 8',Quận 8
+775, 'Xã Hòa S?n',TP. Hòa Bình
+776, 'Th Xã Buôn H',Thị Xã Buôn Hồ
+777, 'Xã Thin M?',TP. Thuận An
+778, 'Huyn Tam Nông',Huyện Tam Nông
+779, 'Ph??ng T? An',Tỉnh Nghệ An
+780, 'Th tr?n Ph?c An',Thị xã Phước Long
+781, 'Th tr?n Long H',Thị xã Long Mỹ
+782, 'Xã Cuor ?ng',Tỉnh Cao Bằng
+783, 'Ph??ng Ph??ng ?ông',Thành phố Sông Công
+784, 'Huyn Qu?nh L?u',Huyện Quỳnh Lưu
+785, 'Tnh Qu?ng Ninh',Tỉnh Quảng Ninh
+786, 'Xã B?c S?n',Tỉnh Bắc Kạn
+787, 'Ph??ng Tân Thi Hip',Huyện Tân Hiệp
+788, 'Ph??ng Phú M?',Thị xã Phú Mỹ
+789, 'Kiên Giang',Tỉnh Kiên Giang
+790, 'Gia Lai',Tỉnh Gia Lai
+791, 'V?nh Long',TP. Vĩnh Long
+792, 'An Giang',Tỉnh An Giang
+793, 'Th Tr?n D??ng Minh Châu',Huyện Dương Minh Châu
+794, 'B?n Tre',TP. Bến Tre
+795, 'Long An',Tỉnh Long An
+796, 'Th xã Ninh Hòa',Thị xã Ninh Hòa
+797, 'Xã Hi?u Ph?ng',TP. Hải Phòng
+798, 'Xã ?ng Phú',Tỉnh Vĩnh Phúc
+799, 'Th xã ?in Bàn',Thị xã Điện Bàn
+800, 'Huyn Bình Tân',Huyện Bình Tân
+801, 'Ph??ng Bình Chu?n',Tỉnh Bình Thuận
+802, 'Huyn Bình L?c',Huyện Bình Lục
+803, 'Ph??ng 2',Tỉnh Long An
+804, 'Huyn Tân Ph?c',Huyện Tân Phước
+805, 'Xã Long Ph?c',Huyện Long Phú
+806, 'Ph??ng Bình Chiu',Huyện Bình Liêu
+807, '??k Nông',TP. Đà Nẵng
+808, 'Bình D??ng',Tỉnh Bình Dương
+809, 'Kon Tum',TP. Kon Tum
+810, 'Ti?n Giang',Tỉnh Tiền Giang
+811, 'Huyn Hòai Nh?n',Huyện Hòa Vang
+812, 'Xã M? Hòa',Tỉnh Hà Nam
+813, 'Th tr?n V?nh An',Tỉnh Trà Vinh
+814, 'Xã V?nh Th?nh Trung',Huyện Thanh Trì
+815, 'Bình ?nh',Tỉnh Bình Định
+816, 'Ph??ng 12',Quận 12
+817, 'Tnh L?ng S?n',Tỉnh Lạng Sơn
+818, 'Ph??ng Tân Xuân',Huyện Thọ Xuân
+819, 'Phú Yên',Tỉnh Phú Yên
+820, 'Thành ph Phan Thi?t',Thành phố Phan Thiết
+821, 'Huyn U Minh Th??ng',Huyện U Minh Thượng
+822, 'Qu?ng Ngãi',TP. Quảng Ngãi
+823, 'Huyn Cao Lãnh',Huyện Cao Lãnh
+824, 'Xã Tân Bình Th?nh',Quận Bình Thạnh
+825, 'Huyn Ia Grai',Huyện Ia Grai
+826, 'Th Xã Duyên H?i',Thị xã Duyên Hải
+827, '??k L?k',Huyện Lắk
+828, 'Huyn Ea H\'leo',Huyện Ea H'leo
+829, khóm Châu Long 2',Thị xã Long Mỹ
+830, 'Tây Ninh',TP. Tây Ninh
+831, 'Huyn C?u Kè',Huyện Cầu Kè
+832, 'Ph??ng C?m Th?y',Huyện Cẩm Thủy
+833, ?p 2',Quận 1
+834, 'Khánh Hoa',Tỉnh Khánh Hòa
+835, 'Th xã ?ng Xòai',Thị xã Đông Hòa
+836, '?ng Nai',TP. Hà Nội
+837, 'Bình Ph?c',Tỉnh Bình Phước
+838, 'Th tr?n Hòa Thành',Thị xã Hòa Thành
+839, tnh Bình Ph?c',Tỉnh Bình Phước
+840, 'Ph??ng Tân An',TP. Tân An
+841, 'Xã Bình Tr?ng',Tỉnh Bình Dương
+842, 'Huyn Qu?ng Ninh',Huyện Quảng Ninh
+843, huyn ??m D?i,Huyện Đầm Dơi
+844, 'Xã Tân L?i Th?nh',Huyện Núi Thành
+845,tp ?ng Xoài,TP. Đồng Xoài
+846, 'Huyn Ch? P?h',Huyện Chư Păh
+847, 'Xã H Nai 3',TP. Hà Nội
+848, 'Ph??ng 22',Tỉnh Lạng Sơn
+849, 'Ninh Thu?n',Tỉnh Ninh Thuận
+850, '?ng Tháp',Tỉnh Đồng Tháp
+851, 'Th tr?n ??c Phong',Huyện Cao Phong
+852, 'Thái Bình',TP. Thái Bình
+853, 'Huyn Hip Hòa',Huyện Hiệp Hòa
+854, 'Xã Phú L?p',Tỉnh Phú Thọ
+855, 'Ph??ng Tân Hòa',Huyện Sơn Hòa
+856, 'Th?a Thiên Hu?',Tỉnh Thừa Thiên Huế
+857, 'Ph??ng ?nh Hòa',Thị xã Ninh Hòa
+858, 'Xã Phú Lâm',Tỉnh Phú Thọ
+859, khu ph 6',Quận 6
+860, 'Xã Ngh?a Thành',Huyện Nghĩa Hành
+861, 'Ph??ng ?ng ?a',Tỉnh Đồng Nai
+862, 'Qu?ng Nam',Tỉnh Quảng Nam
+863, 'Huyn Hòai n',Huyện Hòa Vang
+864, 'Ninh Bình',TP. Ninh Bình
+865, 'Xã Lang Minh',Tỉnh Lạng Sơn
+866, Cà Mau',TP. Cà Mau
+867, 'Huyn Krông Buk',Huyện Krông Búk
+868, 'ph??ng Tân Thi Hip',Huyện Tân Hiệp
+869, 'Xã Tam Hip',TP. Tam Điệp
+870, 'Ngh An',Tỉnh Nghệ An
+871, 'Xã Phú Th?nh',Tỉnh Phú Thọ
+872, 'Thành ph Phúc Yên',Thành phố Phúc Yên
+873, 'Xã Chà Là',Tỉnh Cà Mau
+874, 'Xã Liên ??m',Quận Liên Chiểu
+875, 'Th tr?n L?c Tánh',Huyện Lộc Bình
+876, 'Ph??ng Uyên H?ng',Huyện Yên Dũng
+877, 'Huyn Ninh H?i',Huyện Ninh Hải
+878, 'Xã Long ?i?n A',Quận Long Biên
+879, 'Ph??ng Ph?c Nguyên',Tỉnh Thái Nguyên
+880, 'Th tr?n An Phú',Thị xã An Nhơn
+881, 'Xã Tân Bình',Quận Tân Bình
+882, 'Lâm ?ng',Tỉnh Lâm Đồng
+883, 'Qu?ng Bình',Tỉnh Quảng Bình
+884, 'Huyn L Thu?',Huyện Lệ Thủy
+885, 'Huyn Nam Tr?c',Huyện Nam Trực
+886, 'Ph??ng Chánh Ngh?a',Tỉnh Khánh Hòa
+887, 'Bà Ra - V?ng Tàu',Tỉnh Bà Rịa - Vũng Tàu
+888, qu?n Th? ??c,Quận Thủ Đức
+889, 'Xã B?o Quang',Huyện Bắc Quang
+890, 'Huyn B?u Bàng',Huyện Bàu Bàng
+891, 'Ph??ng Khánh Xuân',Quận Thanh Xuân
+892, huyn Tuy Ph?c,Huyện Tuy Phước
+893, 'Hà T?nh',TP. Hà Tĩnh
+894, 'Qu?ng Tr',Tỉnh Quảng Trị
+895, 'Xã An C?',Huyện An Lão
+896,khóm M? Thành',TP. Vị Thanh
+897, 'Xã Long Khánh A',TP. Long Khánh
+898, 'Huyn Tiu C?n',Huyện Tiểu Cần
+899, 'Xã Bình An',Tỉnh Bình Định
+900, Hà Ni',TP. Hà Nội
+901, 'Xã Lâm S?n',Tỉnh Lâm Đồng
+902, 'Th tr?n Tam Bình',Huyện Tam Bình
